@@ -9,11 +9,11 @@ The purpose was to analyze the outcomes based on the launch dates and the outcom
 ### Analysis of Outcomes Based on Launch Date
 Creating a pivot table using parent category, and years as filters. I then filtered columns based on the months in the year and whether they were "successful" "failed" and "canceled".
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/Kickstarter_Challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 After I created a new sheet with some new columns to run some countifs() functions to better get an idea of the percentages of successful, failed, and canceled kickstarter goals.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/Kickstarter_Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Just starting out the initial pivot table caused some issues into getting everything filtered correctly.
